@@ -1,4 +1,5 @@
-# FakeNewsDetectionUsingLogisticRegressio
+# FakeNewsDetectionUsingLogisticRegression
+Made by  Anurag Sharma and Amit Mondol
 
 ### ✅ *Workflow for the Project*  
 (as seen in the provided Colab link)
